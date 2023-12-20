@@ -1,0 +1,5 @@
+{
+    "configuration": "cpu=328_16b",
+    "board": "megax8:avr:atmegax8",
+    "sketch": "Everset_ES100_ADK_V1.1.ino"
+}
